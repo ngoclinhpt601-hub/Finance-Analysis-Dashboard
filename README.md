@@ -59,3 +59,10 @@ Developed a Finance Analysis dashboard to provide real-time insights into transa
 - **Gender Analysis:** Balanced male/female contribution → marketing strategies should remain inclusive and diversified.  
 
 This project demonstrates end-to-end BI capabilities: data preparation, modeling, advanced DAX calculations, and visualization. The dashboard provides financial institutions with actionable insights to optimize product offerings, reduce transaction risk, and strengthen customer engagement.
+
+Here are some images for those who cannot access Power BI.
+
+<img width="1378" height="796" alt="image" src="https://github.com/user-attachments/assets/d186aabc-b6cb-4af6-b60d-3fc6a6881596" />
+<img width="1375" height="797" alt="image" src="https://github.com/user-attachments/assets/112bed42-233f-4167-8eb5-b7019dfe44a3" />
+
+
